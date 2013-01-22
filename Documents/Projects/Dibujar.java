@@ -14,6 +14,7 @@ public class Dibujar extends JPanel implements ActionListener{
 	private Nave nave;
 	private Timer timer;
 
+
 	public Dibujar() {
 
 		setBackground(Color.BLACK);
